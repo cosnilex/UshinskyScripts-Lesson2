@@ -1,7 +1,7 @@
 # UshinskyScripts-Lesson2
 Задание для второго урока школы системного администрирования Python (Тензор)  
 
-В репозиторию добавлены коммиты (скрипты) с UshinskyScript1.py по UshinskyScript4.py   
+В репозиторию добавлены коммит (скрипты) с UshinskyScript1.py по UshinskyScript4.py   
 Картинки ".png" c Script1Result.png по Script4Result.png, где изображены результаты выполненных скриптов.  
 
 UshinskyScript1.py - первое задание (вывести результат сложения, вычитания и т.д)  
